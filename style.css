@@ -38,6 +38,10 @@ h1{
     
    
 }
+a{
+    text-decoration:none;
+    color:white;
+}
 button
 {
    margin-left:45%;

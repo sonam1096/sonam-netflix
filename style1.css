@@ -1,0 +1,151 @@
+body{
+    background-color: black;
+} 
+.image{
+     height:100vh;
+     width:100%;
+ }
+ .image-1{
+    width:300px;
+      margin-top:100px;
+      position: absolute;
+      left:50px;
+      height:20vh;
+    
+ }
+ .para{
+    color:white;
+    position:absolute;
+    bottom:300px;
+    left:50px;
+
+ }
+ .btn {
+    color: black;
+    background-color: white;
+    border:none;
+    position: absolute;
+    bottom: 250px;
+    left: 70px;
+    /* display:flex; */
+    /* padding-left: 10px;
+    padding-right: 10px; */
+    width: 80px;
+     
+    
+}
+ 
+.btn-icon{
+    color:black;
+    padding-bottom: 10px;
+    /* padding-right: -10px; */
+    padding-top: 10px;
+    display: inline-block;
+    /* padding-right: 1em; */
+    /* padding-left: 5px; */
+
+   
+}
+.info {
+    color: white;
+    background-color:grey;
+    border:none;
+    position: absolute;
+    bottom: 250px;
+    left: 180px;
+    /* display:flex; */
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 120px;
+    opacity:0.6;
+}
+
+.info-icon{
+    padding-bottom: 10px;
+    padding-right: -10px;
+    padding-top: 10px;
+    font-size:14px;
+}
+#header{
+    display: flex;
+    background-color:black;
+    width:100%;
+    height:60px;
+    opacity:0.7;
+    margin-top:-620px;
+    }
+.logo{
+    width:100px;
+}
+ a{ 
+    display: flex;
+    color: white;
+    text-decoration: none;
+    margin:20px;
+
+ }
+ .header-search{
+    margin-left: 330px;
+    color:white;
+    padding:20px; 
+ }
+ .header-notification{
+    color:white;
+    padding:20px;
+ }
+  
+   .profile{
+    width:20px;
+    height:30px;
+    margin-top: 15px;
+    
+ }
+ 
+ .popular{
+    color:white;
+    margin-top:500px;
+    font-weight: bold;
+    font-size:20px;
+    left:50px;
+}
+ .mid-section-image{
+    display:flex;
+    margin-top:10px;
+    justify-content: space-around;
+ }
+ .popular1{
+   color:white;
+    margin-top:30px;
+    font-weight: bold;
+    font-size:20px;
+ }
+ .img{
+    width:200px;
+ }
+ #mid-section1{
+   display:flex;
+    
+ }
+ .popular2{
+   color:white;
+    margin-top:30px;
+    font-weight: bold;
+    font-size:20px;
+ }
+ #mid-section2{
+   display:flex;
+    justify-content:space-around;
+ }
+  .popular3{
+   color:white;
+    margin-top:30px;
+    font-weight: bold;
+    font-size:20px;
+ }
+ #mid-section3{
+   display:flex;
+    justify-content:space-around;
+ } 
+ 
+ 
+  

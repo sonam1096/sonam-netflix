@@ -1,0 +1,24 @@
+#header
+{
+ display:flex;
+ 
+ width:100%;
+ height:300px;
+}
+.header-logo{
+    margin-top: 10px;
+    margin-left:70px;
+    font-size: 35px;
+ }
+ a{
+    text-decoration:none;
+    color:red;
+ }
+ .header-tag{
+    color: red;
+    margin-top: 0px;
+ }
+
+ .search{
+    border-style:elipctical;
+ }
